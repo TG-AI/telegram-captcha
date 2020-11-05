@@ -1,1 +1,1 @@
-nohup python -u bot.py > log.txt &
+web: python3 bot.py 
